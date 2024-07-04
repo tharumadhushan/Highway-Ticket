@@ -6,7 +6,6 @@
       <list>
         <option value="$PROJECT_DIR$/Api_gateway/pom.xml" />
         <option value="$PROJECT_DIR$/service-reg/pom.xml" />
-        <option value="$PROJECT_DIR$/item-service/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/vehicle-server/pom.xml" />
         <option value="$PROJECT_DIR$/vehicle-service/pom.xml" />
